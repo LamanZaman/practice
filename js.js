@@ -151,12 +151,85 @@
 // $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$4
 // let random=Math.floor(Math.random()*(10-1)+1);
 // console.log(random);
-// 77&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&& 
-// misal5
-// let dt=new Date();
-// console.log(dt);
-// 3###################################################
+// misal5 indiki tarixe gore il ay gun gosterme
+// ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+// let now=new Date();
+// let il=now.get
+
+// """""""""""""""""""""""""""""""""""""""""""""""::::::::::::::::::::::::::::""""""""""""">>>>>>>>>>>>>>>>
+// sual1
+// let array = ["kitab", "defter", "qelem", "pozan"];
+// let i = array.indexOf("qelem"); 
+
+//     array.splice(i, 1, "jurnal","karandas"); 
+
+// console.log(array); 
 
 
 
 
+
+
+
+
+// sual2 
+// let eded = [2, 5, 32, 12, 6];
+
+// for (let i = 0; i < eded.length; i++) {
+//     if (eded[i] % 2 == 0) {
+//         console.log("cut");
+//     } else {
+//         console.log("tek");
+//     }
+// }
+
+
+
+
+// sual3
+// let a = [-23, 5, 34, 3, -3, 0];
+// let result = a.filter(num => num > 0);
+//  a.map(num => num * 2)  ;        
+//  a.sort((a, b) => b - a);       
+// console.log(result); 
+
+
+
+// sual4
+// let command ="cancel"
+// switch(command){
+//     case 'save':
+//     console.log("yadda saxlandi")
+//     break;
+// case 'cancel':
+//     console.log("cixildi");
+//     break;
+//     case'update':
+//     console.log("deysiklikler yadda saxlanildi");
+//     break;
+//     default:
+//         console.log("daxil etdiyiniz command yoxdur");
+//         break;
+        
+    
+    
+// }
+// sual5
+// let a = [4, 6, 2, 5, 7]; 
+
+// let result = a.map(num => num % 2 === 0 ? 'cut' : 'tek'); 
+
+// console.log(result); 
+
+
+
+// sual6
+let setir="abcfdeg"
+let array=setir.split('')
+console.log(array);
+
+
+
+
+// sual7
