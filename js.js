@@ -188,11 +188,14 @@
 
 
 // sual3
-// let a = [-23, 5, 34, 3, -3, 0];
-// let result = a.filter(num => num > 0);
-//  a.map(num => num * 2)  ;        
-//  a.sort((a, b) => b - a);       
-// console.log(result); 
+let a = [-23, 5, 34, 3, -3, 0];
+let result = a.filter(num => num > 0);
+  let netice= a.map(num => num * 2)  ;        
+      let son_netice= a.sort((a, b) => b - a);       
+console.log(result); 
+console.log(netice); 
+console.log(son_netice); 
+
 
 
 
@@ -225,9 +228,9 @@
 
 
 // sual6
-let setir="abcfdeg"
-let array=setir.split('')
-console.log(array);
+// let setir="abcfdeg"
+// let array=setir.split('')
+// console.log(array);
 
 
 
